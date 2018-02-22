@@ -1,0 +1,11 @@
+{
+  "name": "webpack-module-rule-utils",
+  "version": "0.0.1",
+  "description": "Utils for traversing and manipulating module rules from webpack config",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/unconfident/webpack-module-rule-utils",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
