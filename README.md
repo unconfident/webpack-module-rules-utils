@@ -1,4 +1,4 @@
-# webpack-module-rule-utils
+# webpack-module-rules-utils
 
 /!\ Unfinished and not even tested yet, please don't use
 
